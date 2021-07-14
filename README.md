@@ -1,8 +1,11 @@
-👋 Hi, I’m @WagnerGFX, a Programmer interested in making games with <b>Unity</b> and, sometimes, with <b>Godot</b>.
+👋 Hi, I’m Wagner, a Programmer interested in making games with <b>Unity</b> and, sometimes, with <b>Godot</b>.
 
-🏠 Check out <a href="https://wagnergfx.wixsite.com/site?lang=en" target="_blank">my portfolio</a>
 
-📫 Send me a <a href="https://wagnergfx.wixsite.com/site/contact?lang=en" target="_blank">message</a>
+* 🏠 Check out [my portfolio](https://wagnergfx.wixsite.com/site?lang=en)
+
+* 📫 Send me a [message](https://wagnergfx.wixsite.com/site/contact?lang=en)
+
+* 🚀 Play some of my [small projects](https://wagnergfx.github.io/)
 
 <!--
 - 🌱 I’m currently learning ...
