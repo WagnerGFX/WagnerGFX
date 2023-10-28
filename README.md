@@ -1,4 +1,4 @@
-👋 Hi, I’m Wagner, a Programmer interested in making games with <b>Unity</b> and, sometimes, with <b>Godot</b>.
+👋 Hi, I’m Wagner, a Programmer interested in making games with <b>Godot</b> and <b>Unity</b>.
 
 
 * 🏠 Check out [my portfolio](https://wagnergfx.wixsite.com/site?lang=en)
